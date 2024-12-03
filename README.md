@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakith Liyanage</h1> <h3 align="center">A Passionate Developer and Tech Enthusiast</h3> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakithliyanage&theme=radical" alt="GitHub Streak" /> </p>
 
 🌱 Currently Learning: MERN Stack (MongoDB, Express, React, Node.js)<br>
-👨‍💻 Portfolio Website: Visit Here<br>
+👨‍💻 Portfolio Website: <a href="https://sakithliyanage.github.io/sakithliyanage.com/">Visit Here</a><br>
 📄 My Resume: <a href="https://sakithliyanage.github.io/sakithliyanage.com/img/resume.pdf">View PDF</a><br>
 📫 Reach Me At: sakithchanlaka@gmail.com<br>
 🌐 Connect With Me:
