@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @SakithLiyanage
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning HTML,CSS & Java script
-- 💞️ I’m looking to collaborate on Web designing
-- 📫 How to reach me sakithchanlaka2004@gmail.com
+<h1 align="center">Hi 👋, I'm Sakith Liyanage</h1> <h3 align="center">A Passionate Developer and Tech Enthusiast</h3> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakithliyanage&theme=radical" alt="GitHub Streak" /> </p>
 
-<!---
-SakithLiyanage/SakithLiyanage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently Learning: MERN Stack (MongoDB, Express, React, Node.js)
+👨‍💻 Portfolio Website: Visit Here
+📄 My Resume: View PDF
+📫 Reach Me At: sakithchanlaka@gmail.com
+🌐 Connect With Me:
+<p> <a href="https://linkedin.com/in/sakithchanlaka" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://fb.com/sakithchanlaka" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook" /> </a> </p>
+🛠️ Languages and Tools:
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </p>
+📊 GitHub Stats:
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakithliyanage&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=sakithliyanage&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> </div>
+
+✨ “Driven by curiosity and a passion for creating innovative solutions.” ✨
