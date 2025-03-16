@@ -92,3 +92,9 @@
     <img src="https://img.shields.io/badge/-Explore+My+Projects-4C9B87?style=for-the-badge&logo=github" alt="Projects" />
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakithLiyanage/SakithLiyanage/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SakithLiyanage/SakithLiyanage/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SakithLiyanage/SakithLiyanage/output/github-snake.svg" />
+</picture>
