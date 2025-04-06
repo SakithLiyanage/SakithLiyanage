@@ -61,7 +61,7 @@
 
 ### 🎮 Fun Facts:
 - 🔭 **Hobbies:** Gaming, Reading Tech Blogs, Exploring New Frameworks.
-- 💡 **Favorite Game:** Call of Duty: Mobile (Alias: Viper).
+- 💡 **Favorite Games:** Call of Duty: Mobile (Alias: Viper)  | Mobile Legends Bang Bang (Alias : Suckit).
 - 🌌 **Goal:** To master full-stack development and build scalable solutions.
 
 ---
