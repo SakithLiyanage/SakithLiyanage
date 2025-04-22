@@ -9,7 +9,7 @@
   <strong>🌱 Currently Learning:</strong> MERN Stack (MongoDB, Express, React, Node.js)<br>
   <strong>👨‍💻 Portfolio Website:</strong> <a href="https://sakithliyanage.github.io/sakithliyanage.com/" target="_blank">Visit Here</a><br>
   <strong>📄 My Resume:</strong> <a href="https://sakithliyanage.github.io/sakithliyanage.com/img/resume.pdf" target="_blank">View PDF</a><br>
-  <strong>📫 Reach Me At:</strong> sakithchanlaka@gmail.com
+  <strong>📫 Reach Me At:</strong> sakithchanlaka2004@gmail.com
 </p>
 
 ---
