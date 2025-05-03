@@ -113,14 +113,6 @@
 
 <br>
 
-<!-- Trophies Section -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakithliyanage&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br>
-
 <!-- Footer Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer"/>
