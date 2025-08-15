@@ -26,7 +26,7 @@
     <br><br>
     💼 <b>Currently:</b> Exploring Full-Stack Development
     <br>
-    🌱 <b>Learning:</b> MongoDB, Express, React, Node.js
+    🌱 <b>Learning:</b> Asp .Net + jQuery + PostgreSQL
     <br>
     🎯 <b>Goal:</b> Building scalable web applications
     <br>
