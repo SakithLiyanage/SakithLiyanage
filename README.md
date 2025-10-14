@@ -10,8 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=sakithliyanage&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <a href="https://sakithliyanage.github.io/sakithliyanage.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-Portfolio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" />
-  </a>
-  
+  </a>  
   <a href="mailto:sakithchanlaka2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
