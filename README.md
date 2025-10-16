@@ -5,7 +5,6 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0CE6F2&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Tech+Explorer;Passionate+Coder" alt="Typing SVG" />
 </h3>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sakithliyanage&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <a href="https://sakithliyanage.github.io/sakithliyanage.com" target="_blank">
