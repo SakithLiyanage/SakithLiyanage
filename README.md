@@ -71,9 +71,9 @@
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakithliyanage&show_icons=true&count_private=true&hide_border=true&title_color=0CE6F2&icon_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
+  <img src="https://github-readme-stats.vercel.app/api?username=SakithLiyanage&show_icons=true&count_private=true&hide_border=true&title_color=0CE6F2&icon_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
   alt="SakithLiyanage's GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakithliyanage&layout=compact&hide_border=true&title_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakithLiyanage&layout=compact&hide_border=true&title_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
   alt="Most Used Languages" height="180em" />
 </div>
 
